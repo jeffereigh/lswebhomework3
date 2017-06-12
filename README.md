@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Jeff Vayo
 
-I like to:
+I like to: Watch and play sport.
 
-I'm learning:
+I'm learning: how to program HTML and CSS. It seems as though I need to learn a little git and js as well.
 
 ```
 
